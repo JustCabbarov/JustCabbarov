@@ -100,10 +100,6 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 - System design & scalability
 - Event-driven architecture
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCabbarov&show_icons=true&hide_border=true)
 
 
 ---
