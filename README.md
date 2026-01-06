@@ -72,7 +72,7 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 - Advanced filtering and analytics
 - Automation workflows with n8n
 - **Tech:** .NET Core, Web API, SQL Server, AI integrations, n8n  
-🔗 https://evtap.az
+🔗 https://github.com/JustCabbarov/EvTap.az
 
 ---
 
