@@ -103,7 +103,8 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCabbarov&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCabbarov&show_icons=true&hide_border=true)
+
 
 ---
 
