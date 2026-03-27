@@ -55,7 +55,7 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
@@ -83,19 +83,20 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 ---
 
 ### 🟣 CinePair API — Group Movie Recommendation Engine
-- 2 nəfərin sevdiyi filmləri əsasında hər ikisinin bəyənə biləcəyi **ortaq film tövsiyəsi** verir
-- **KNN (K-Nearest Neighbors)** + **cosine similarity** ilə collaborative filtering
+- Recommends movies that **both users would enjoy** based on their individually liked films
+- **KNN (K-Nearest Neighbors)** + **cosine similarity** for collaborative filtering
 - **Tech:** Python, scikit-learn, pandas, scipy, FastAPI  
 🔗 https://github.com/JustCabbarov/CinePair-API
 
 ---
 
-### 🟣 Pokemon Game API
-- Trainer registration, Pokémon capture, battle & gym system
-- Clean / Onion Architecture
-- Real-time features with SignalR
-- **Tech:** .NET Core, EF Core, Serilog, AutoMapper  
-🔗 https://github.com/JustCabbarov/PokemonGameAPI
+### 🟣 Task Management System — Enterprise Task & Team Management API
+- Full-featured task management system with team creation, task assignment, and role-based access
+- **Real-time notifications** (task assignments, comments, status changes) via SignalR
+- **Performance points system** — automatic scoring based on task difficulty with live leaderboard
+- File upload/download via **MinIO** (S3-compatible), OTP-based password reset
+- **Tech:** .NET Core, ASP.NET Web API, Clean Architecture, SignalR, EF Core, PostgreSQL, Docker  
+🔗 https://github.com/JustCabbarov/Task-Management-System
 
 ---
 
@@ -120,4 +121,3 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 - GitHub: https://github.com/JustCabbarov
 - Email: elicabbarov88@gmail.com
 - LinkedIn: www.linkedin.com/in/ali-jabbarov
-- Kaggle: https://www.kaggle.com/licabbarov
