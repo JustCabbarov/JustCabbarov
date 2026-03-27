@@ -123,3 +123,4 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 - GitHub: https://github.com/JustCabbarov
 - Email: elicabbarov88@gmail.com
 - LinkedIn: www.linkedin.com/in/ali-jabbarov
+- Kaggle: https://www.kaggle.com/licabbarov
