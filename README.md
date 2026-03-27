@@ -38,6 +38,12 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 
 ---
 
+### 🔹 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
 ### 🔹 Automation & Integrations
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge)
@@ -76,6 +82,14 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 
 ---
 
+### 🟣 CinePair API — Group Movie Recommendation Engine
+- 2 nəfərin sevdiyi filmləri əsasında hər ikisinin bəyənə biləcəyi **ortaq film tövsiyəsi** verir
+- **KNN (K-Nearest Neighbors)** + **cosine similarity** ilə collaborative filtering
+- **Tech:** Python, scikit-learn, pandas, scipy, FastAPI  
+🔗 https://github.com/JustCabbarov/CinePair-API
+
+---
+
 ### 🟣 Pokemon Game API
 - Trainer registration, Pokémon capture, battle & gym system
 - Clean / Onion Architecture
@@ -100,11 +114,10 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 - System design & scalability
 - Event-driven architecture
 
-
-
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/JustCabbarov
 - Email: elicabbarov88@gmail.com
-- Linkedln: www.linkedin.com/in/ali-jabbarov
+- LinkedIn: www.linkedin.com/in/ali-jabbarov
+- Kaggle: https://www.kaggle.com/licabbarov
