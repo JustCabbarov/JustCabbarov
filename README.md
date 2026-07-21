@@ -14,9 +14,9 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 
 ---
 
-### 🔹 Architecture & Patterns![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+### 🔹 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-5A2D82?style=for-the-badge)
-![Repository](https://img.shields.io/badge/Repository%20Pattern-4B0082?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-4B0082?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge)
