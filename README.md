@@ -14,12 +14,17 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 
 ---
 
-### 🔹 Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+### 🔹 Architecture & Patterns![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-5A2D82?style=for-the-badge)
 ![Repository](https://img.shields.io/badge/Repository%20Pattern-4B0082?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-4B0082?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge)
+![Saga Pattern](https://img.shields.io/badge/Saga%20Pattern-8B0000?style=for-the-badge)
+![Outbox Pattern](https://img.shields.io/badge/Outbox%20Pattern-2E8B57?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven-FF8C00?style=for-the-badge)
+![Circuit Breaker](https://img.shields.io/badge/Circuit%20Breaker-B22222?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-6A5ACD?style=for-the-badge)
 
 ---
 
@@ -43,6 +48,13 @@ I enjoy building **clean, scalable APIs**, working with **real-time systems**, a
 ### 🔹 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
